@@ -1,0 +1,18 @@
+PORTFÓLIO - MICHELLE SIQUEIRA MENDES
+
+O portfólio está personalizado com tons de lilás e rosa e já inclui a foto enviada.
+
+ANTES DE PUBLICAR:
+1. Confira a foto em img/perfil.jpg.
+2. Em index.html, substitua o link https://drive.google.com/ pelo link compartilhável da sua pasta de certificados.
+3. Troque os links genéricos de GitHub e LinkedIn pelos seus perfis reais, se tiver.
+4. Em projetos.html, depois de publicar o repositório, troque o link genérico do botão pelo endereço real do repositório.
+5. Salve as alterações com Ctrl+S.
+
+COMO PUBLICAR:
+- Crie um repositório público chamado meu-portfolio no GitHub.
+- Envie os arquivos HTML, style.css, LEIA-ME.txt e a pasta img.
+- Em Settings > Pages, selecione Deploy from a branch, branch main e pasta /(root), depois Save.
+- Envie o link do repositório na plataforma +Robotic, em Submissões.
+
+O card “Meu primeiro portfólio” será seu primeiro projeto real quando o site estiver publicado. O card “Próximos projetos” está identificado como em desenvolvimento.
